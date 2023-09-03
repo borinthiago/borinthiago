@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @borinthiago
-- 👀 Interests: Life science tech and engineering.
-- 📫 Reach me on here or on /borinthiago in linkedin.
+- @borinthiago
+- /borinthiago
 
 <!---
 borinthiago/borinthiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
